@@ -1,3 +1,8 @@
+#Jose Edits
+Oddly enough after building this image (but using from rocker instead of ubuntu)
+the dockerfile image is the same size (10.2) GB
+
+
 # Docker container images with "headless" VNC session
 
 This repository contains a collection of Docker images with headless VNC environments.
